@@ -1,0 +1,2 @@
+# ShoppingCart
+This is the march store where they sell new albums and men’s and women's T-shirts. Along with updating with their new hosting events and selling tickets online through the website. This site is developed with html, css, JavaScript, jquery, bootstrap, nodejs and Stripe restful api. Hence this website is fully functional and responsive to all devices (Smartphone &amp; tablet).besides this it is developed with all security concerns. link
